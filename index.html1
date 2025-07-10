@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Foreigner Learning Hub</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Foreigner Learning Hub</h1>
+    <nav>
+      <a href="profile.html">My Profile</a>
+      <a href="settings.html">Settings</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Welcome to Foreigner Learning Hub!</h2>
+    <p>Your gateway to free online education.</p>
+  </main>
+</body>
+</html>
